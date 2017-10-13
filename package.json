@@ -1,0 +1,30 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.4",
+    "crypto": "^1.0.1",
+    "express": "^4.16.1",
+    "jsonwebtoken": "^8.1.0",
+    "mongoose": "^4.12.0",
+    "nodemon": "^1.12.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js",
+    "build": "cd client && ng build --prod"
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradepwarrior/Angular2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradepwarrior/Angular2/issues"
+  },
+  "homepage": "https://github.com/pradepwarrior/Angular2#readme"
+}
